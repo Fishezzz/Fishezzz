@@ -12,7 +12,9 @@
 [![Wakatime Languages 7 Days](https://wakatime.com/share/@Fishezzz/31c71659-0f5d-40dc-a694-b2eaedb2617b.svg)](https://wakatime.com/share/@Fishezzz/31c71659-0f5d-40dc-a694-b2eaedb2617b.svg)
 
 [![Wakatime Activity All Time](https://wakatime.com/share/@Fishezzz/18e8ca00-77cf-4bdb-9548-98d1aec1143f.svg)](https://wakatime.com/share/@Fishezzz/18e8ca00-77cf-4bdb-9548-98d1aec1143f.svg)(*Since 2020-10-17*)
---<
+-->
+
+Check out my [gists](https://gist.github.com/Fishezzz)!
 
 <!--
 **Fishezzz/Fishezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
